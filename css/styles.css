@@ -1,3 +1,7 @@
-h1 {
-  font-weight: bold;
+h1.welcome {
+  font-size: 20px;
+}
+
+p.free {
+  font-size: 16px;
 }

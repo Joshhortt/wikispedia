@@ -12,4 +12,29 @@ div {
 
 .topleft {
   list-style: none;
+
+}
+
+.well {
+  margin-top: 60px;
+}
+
+.logo {
+  margin-top: 20px;
+}
+
+.bird {
+  float: left;
+}
+
+.news {
+  float: right;
+}
+
+.guess {
+  float: right;
+}
+
+.list {
+  float: right;
 }

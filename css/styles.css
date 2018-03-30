@@ -17,6 +17,7 @@ div {
 
 .well {
   margin-top: 60px;
+  padding-bottom: 80px;
 }
 
 .logo {
@@ -46,4 +47,33 @@ div {
 .illust {
   float: left;
   padding: 5px 10px 5px 5px;
+}
+/*
+#one {
+  float: right;
+
+}
+#two {
+  float: right;
+}
+
+#three {
+  float: right;
+
+}
+
+.ciences {
+  color: blue;
+  float:right;
+  display: block;
+}
+*/
+.arrange-vertically > * {
+    display: block;
+}
+.arrange-horizontally > * {
+    display: inline-block;
+    text-align: left;
+    float: right;
+
 }

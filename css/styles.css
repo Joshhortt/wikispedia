@@ -6,3 +6,10 @@ p.free {
   font-size: 12px;
   font-weight: 400;
 }
+div {
+  border: 1px solid #f7f7f7;
+}
+
+.topleft {
+  list-style: none;
+}

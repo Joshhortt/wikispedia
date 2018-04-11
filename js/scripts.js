@@ -37,7 +37,7 @@ $(document).ready(function() {
   $("img").click(function() {
     alert("This is an image.");
   });
-
+});
 
 // If something on your page isn't working right,
 // you can check in Chrome to make sure that you've attached

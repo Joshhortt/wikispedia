@@ -26,7 +26,7 @@ jQuery(document).ready(function() {
 // we can simply use $(): --dollar sign--
 
 $(document).ready(function() {
-  $("h6").click(function() {
+  $("h1").click(function() {
     alert("This is a header.");
   });
 

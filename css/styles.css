@@ -81,6 +81,11 @@ div {
   display: none;
 }
 
+#mediawiki-showing {
+  display: none;
+}
+
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
@@ -88,4 +93,12 @@ div {
 
 .clickable:hover {
   text-decoration: underline;
+}
+
+h3 {
+  color: #444444;
+}
+
+h4 {
+  color: #cd751f;
 }
